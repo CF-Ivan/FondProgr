@@ -1,5 +1,9 @@
-package CartaPiùAlta;
+package CartaPiÃ¹Alta;
 
+/**
+ * 
+ * 
+ **/
 public class Carta {
 	private char segno;
 	private int valore;
